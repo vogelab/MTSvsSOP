@@ -1,0 +1,24 @@
+=====================
+Folder content
+=====================
+- "Base models" folder.
+It contains 11 files with the *.slx extension. These files correspond to the  actual models of each figure.
+
+- Figures.
+11 files with the *.mldatx extension. These files correspond to the experimental designs of each figure. Can be opened only if "Base models" is the Current folder in MATLAB.
+
+=====================
+How to run the simulations and visualize data for each figure?
+=====================
+
+1. Download "Base models" folder and all the figures you want to check.
+
+2. Open MATLAB.
+
+3. Make "Base models" your Current folder in MATLAB.
+
+4. Open the figure you want to look at. Simulink will be open.
+
+5. Click Run All.
+
+6. Visualize data by clicking on Data Inspector.

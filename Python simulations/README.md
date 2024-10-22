@@ -9,4 +9,4 @@ How to run the simulations?
 =
 You have 2 options:
 1) Dowload the folder and use some software that allows working on Python notebooks (e.g.: Anaconda, https://www.anaconda.com/).
-2) Run NO DOWLOAD MTSvsSOP.ipynb in Google Colab clicking here: https://githubtocolab.com/vogelab/MTSvsSOP/blob/main/Python%20simulations/NO%20DOWNLOAD%20MTSvsSOP.ipynb
+2) Run NO DOWLOAD MTSvsSOP.ipynb in Google Colab clicking here: (https://colab.research.google.com/github/vogelab/MTSvsSOP/blob/main/Python%20simulations/NO%20DOWNLOAD%20MTSvsSOP.ipynb)
